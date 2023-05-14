@@ -1,4 +1,4 @@
-# Linguagem de Progamação - **Rust**
+# Linguagem de Progamação - Rust
 
 <p align="center">
 <img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" width="300">
